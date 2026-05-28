@@ -1,0 +1,32 @@
+aid: whatpulse
+name: WhatPulse
+description: "Small application that measures your keyboard/mouse usage"
+url: https://developer.whatpulse.org/#web-api
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Tracking"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Tracking
+  - Public APIs
+apis:
+  - name: WhatPulse
+    description: "Small application that measures your keyboard/mouse usage"
+    humanURL: https://developer.whatpulse.org/#web-api
+    baseURL: https://developer.whatpulse.org/#web-api
+    tags:
+      - Tracking
+    properties:
+      - type: Documentation
+        url: https://developer.whatpulse.org/#web-api
+common:
+  - type: Website
+    url: https://developer.whatpulse.org/#web-api
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
