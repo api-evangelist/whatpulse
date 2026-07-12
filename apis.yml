@@ -23,10 +23,14 @@ apis:
       - type: Documentation
         url: https://developer.whatpulse.org/#web-api
 common:
+  - type: DomainSecurity
+    url: security/whatpulse-domain-security.yml
   - type: Website
     url: https://developer.whatpulse.org/#web-api
   - type: PublicAPIsListing
     url: https://github.com/public-apis/public-apis
+  - url: https://whatpulse.org/blog/atom.xml
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
