@@ -1,0 +1,14 @@
+{
+  "repo": "whatpulse",
+  "feeds": [
+    {
+      "source": "https://whatpulse.org/blog/atom.xml",
+      "feed_url": "https://whatpulse.org/blog/atom.xml",
+      "title": "",
+      "saved": 2,
+      "method": "feed"
+    }
+  ],
+  "post_count": 2,
+  "fetched": "2026-07-11T11:50:51Z"
+}
